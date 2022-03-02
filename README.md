@@ -1,7 +1,12 @@
 # `repeat-sh`
-Repeat running any shell command with interval
+Repeat any shell command with interval
 
+[<img src="repeat-sh.png" max-height="300">](repeat.sh)
 
+## Usage
+```sh
+./repeat.sh <interval in seconds> <command to run> [-no-clear]
+```
 
 ## License
 GPLv2
