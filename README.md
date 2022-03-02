@@ -8,6 +8,8 @@ Repeat any shell command with interval
 ./repeat.sh <interval in seconds> <command to run> [-no-clear]
 ```
 
+By default your terminal is being cleared after given interval. You can turn clearing off by passing `-no-clear` option.
+
 ## License
 GPLv2
 
