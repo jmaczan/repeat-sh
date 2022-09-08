@@ -1,3 +1,5 @@
+<p align="center"><img width="150" src="repeat-shlogo.png" alt="repeat-sh logo"></p>
+
 # `repeat-sh`
 Repeat any shell command with interval
 
